@@ -7,6 +7,7 @@
           <li>ls</li>
             <li>siguiente paso instalar cmake y brew https://github.com/CryptoXSS/brew</li>
               <li>./record output.kbd<li/>
+                <li>./keytap2-gui output.kbd</li>
                 </ol>
 
 ----------------------------------------------------------------------------------------------
