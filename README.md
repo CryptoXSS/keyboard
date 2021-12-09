@@ -11,7 +11,8 @@
                <li>./keytap2-gui output.kbd</li>
                 <li>./keytap2-gui output.kbd ../data/
                 </ol>
-credit:https://github.com/ggerganov
+credit:<a href="https://github.com/ggerganov";<ggerganov</a>
+
 ----------------------------------------------------------------------------------------------
 Last recorded key - 104 'h'. Total times recorded so far -   1. Total data saved: 0.0214844 MB
 
